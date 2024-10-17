@@ -9,7 +9,8 @@ An employer will be able to reach my at my link, github or personal email accoun
 An employer can view the type of skill I have learned. 
 
 
-![deployed page](https://github.com/user-attachments/assets/7fc3c868-6338-450a-927a-73aef8a8e585)
+
+![deployed page contact](https://github.com/user-attachments/assets/1633c750-bb3a-44bd-a5bb-09f2bee43724)
 
 
 ## Languages
