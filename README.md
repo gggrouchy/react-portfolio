@@ -8,9 +8,8 @@ An employer or anyone that requeries a web developer can review the type of proj
 An employer will be able to reach my at my link, github or personal email accounts. 
 An employer can view the type of skill I have learned. 
 
-![deployed page](https://github.com/user-attachments/assets/6224b144-1746-4eba-b7fe-33cc90cdbdae)
 
-![deployed page contact](https://github.com/user-attachments/assets/141fb93f-b07c-4ee1-ba2d-c1f06c2a6abc)
+![deployed page](https://github.com/user-attachments/assets/7fc3c868-6338-450a-927a-73aef8a8e585)
 
 
 ## Languages
